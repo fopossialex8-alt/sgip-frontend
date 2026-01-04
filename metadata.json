@@ -1,0 +1,7 @@
+{
+  "name": "SGIP - Système de Gestion Intégré de Paroisse",
+  "description": "Une solution logicielle complète pour la gestion des paroisses camerounaises : registres des sacrements (baptêmes, mariages), gestion des fidèles et CEV, comptabilité financière (dîmes, quêtes), et planification liturgique.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
